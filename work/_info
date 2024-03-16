@@ -8,3 +8,27 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA_lite/18.1
+vtime_base_gen
+DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+!s110 1710619449
+!i10b 1
+!s100 in<iB[:Ka@B;Gdj<dM0733
+I:nS[mXDA_VXmPf8f4C]QO1
+VDg1SIo80bB@j0V0VzS_@n1
+!s105 time_base_gen_sv_unit
+S1
+dC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog
+w1710619236
+8C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv
+FC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1710619449.000000
+!s107 C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv|
+!i113 1
+o-work work -sv
+tCvgOpt 0
