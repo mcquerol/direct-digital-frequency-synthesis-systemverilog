@@ -1,6 +1,6 @@
 module phase_acc (
     input logic clk, reset_n, enable
-    output logic q[7:0]
+    output logic [7:0] q
 );
 
 always_ff @(posedge clk)
