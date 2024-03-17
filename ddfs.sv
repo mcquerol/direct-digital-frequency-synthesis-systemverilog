@@ -1,10 +1,10 @@
 module ddfs (
-    input logic clk, reset_n,
+    input logic clk, input logic reset_n,
     output logic [7:0] q
 );
 
 logic enable;
-time_base_gen #(.L(512)) timegen (.clk(clk), .reset_n(reset_n), .q(enable));
+time_base_gen #(.L(521)) timegen (.clk(clk), .reset_n(reset_n), .q(enable));
 
 logic [7:0] lut_address;
 
