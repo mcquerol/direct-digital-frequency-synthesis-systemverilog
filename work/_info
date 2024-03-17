@@ -1,0 +1,130 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/18.1
+vddfs
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1710717283
+!i10b 1
+!s100 ohb27UR=jPW`dj25OPjiJ2
+IdYaogdJzA`8BPPOJ4VA]d0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ddfs_sv_unit
+S1
+Z3 dC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog
+w1710706895
+8C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs.sv
+FC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1710717283.000000
+!s107 C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+vddfs_tb
+R0
+R1
+!i10b 1
+!s100 3aK8fBQP6iY<OZj<=b5d^2
+I@?:L@hRiMPo`KVbiLQGEH2
+R2
+!s105 ddfs_tb_sv_unit
+S1
+R3
+w1710674179
+8C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs_tb.sv
+FC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs_tb.sv
+L0 7
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs_tb.sv|
+!i113 1
+R6
+R7
+vphase_acc
+R0
+R1
+!i10b 1
+!s100 _R_NN@]>jTPacVnQ1U21f0
+IOGVOKVi9:[k7@9ZhXCe8>1
+R2
+!s105 phase_acc_sv_unit
+S1
+R3
+w1710717250
+8C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/phase_acc.sv
+FC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/phase_acc.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/phase_acc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/phase_acc.sv|
+!i113 1
+R6
+R7
+vsine_wave_lut
+R0
+R1
+!i10b 1
+!s100 aloU>SIKamQV7SG5zLMD31
+I^i;m`R7?b_W[RMo5RQ5j^1
+R2
+!s105 sine_wave_lut_sv_unit
+S1
+R3
+w1710717148
+8C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/sine_wave_lut.sv
+FC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/sine_wave_lut.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/sine_wave_lut.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/sine_wave_lut.sv|
+!i113 1
+R6
+R7
+vtime_base_gen
+R0
+R1
+!i10b 1
+!s100 OU@h<;<llmz:8N=M;6FiB0
+I?_Q8[5T@>R2REN=ZA5BeL3
+R2
+!s105 time_base_gen_sv_unit
+S1
+R3
+w1710717021
+8C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv
+FC:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv|
+!i113 1
+R6
+R7
