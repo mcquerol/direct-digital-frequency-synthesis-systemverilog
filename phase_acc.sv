@@ -1,5 +1,5 @@
 module phase_acc (
-    input logic clk, reset_n, enable
+    input logic clk, reset_n, enable,
     output logic [7:0] q
 );
 
