@@ -3,7 +3,7 @@ module sine_wave_lut (
     output logic q
 );
     
-    always_comb
+    always_comb begin
         case(address)
             0: q = 8'd00;
             1: q = 8'd02;
@@ -261,7 +261,6 @@ module sine_wave_lut (
             253: q = 8'dfb;
             254: q = 8'dfd;
             255: q = 8'dfe;
-        default: q = 8'd0;
-    endcase
-
+        endcase
+    end
 endmodule
