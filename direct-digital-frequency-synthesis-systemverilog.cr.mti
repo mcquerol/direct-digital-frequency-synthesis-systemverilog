@@ -1,0 +1,36 @@
+C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/sine_wave_lut.sv {1 {vlog -work work -sv -stats=none C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/sine_wave_lut.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sine_wave_lut
+
+Top level modules:
+	sine_wave_lut
+
+} {} {}} C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs.sv {1 {vlog -work work -sv -stats=none C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ddfs
+
+Top level modules:
+	ddfs
+
+} {} {}} C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv {1 {vlog -work work -sv -stats=none C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/time_base_gen.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module time_base_gen
+
+Top level modules:
+	time_base_gen
+
+} {} {}} C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/ddfs_tb.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ddfs_tb
+
+Top level modules:
+	ddfs_tb
+
+} {} {}} C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/phase_acc.sv {1 {vlog -work work -sv -stats=none C:/Users/mateo/Desktop/Repos/direct-digital-frequency-synthesis-systemverilog/phase_acc.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module phase_acc
+
+Top level modules:
+	phase_acc
+
+} {} {}}
